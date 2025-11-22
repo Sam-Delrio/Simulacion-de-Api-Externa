@@ -1,0 +1,18 @@
+{
+  "tasks": [
+    {
+      "id": "f4de",
+      "title": "Comprar Huevos",
+      "description": "Media Cubeta",
+      "done": true,
+      "createdAt": "2025-11-22T17:07:03.022Z"
+    },
+    {
+      "id": "09f2",
+      "title": "Comprar Leche",
+      "description": "5 Bolsas",
+      "done": false,
+      "createdAt": "2025-11-22T17:07:14.218Z"
+    }
+  ]
+}
